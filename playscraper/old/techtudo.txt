@@ -1,0 +1,5 @@
+'Parabéns pela app amigos =)',
+'The app is good and useful',
+'Daí você recebe a mensagem de notificação sobre um assunto... Clica e, vai pra tela inicial 👏👏👏',
+'Algo que poderia ser aprimorado seria após ler uma notícia.... Voltar para a posição anterior e não no início das notícias. Horrível ter que rolar até achar a última notícia que me interessou.',
+'O app e muito lento e cada movimento que voce faz na pagina exige um novo loading, alem do conteudo ser fraco',
