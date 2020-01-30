@@ -91,3 +91,7 @@ node playscraper.js > output.txt
 grep -E '(    text:)' output.txt > output2.txt
 
 mv output2.txt itau.txt
+
+- Labels: __label__0 -- inútil
+          __label__1 -- feature request
+          __label__2 -- bug report
